@@ -77,14 +77,3 @@ rag-chatbot/
 ```
 
 ---
-
-## What I'd add next
-
-- Persistent ChromaDB storage so the index survives app restarts
-- Multi-document support — ask across several PDFs at once
-- Streaming responses so answers appear word-by-word
-- Hybrid search (keyword + semantic) for better retrieval on technical docs
-
----
-
-*Part of my AI & Data Science portfolio.*
